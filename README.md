@@ -9,3 +9,4 @@ All other files are attached in repository
 
 You can run the test_fibonacci file use py.test in the terminal where the file is located, run py.test --html=report.txt if you would like to print a test report locally 
 
+Pytest and requests are required to run test_fibonacci.py, youll first need to make sure you have pytest installed as well as requests, this can be done by running pip install requests
